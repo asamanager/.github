@@ -57,19 +57,12 @@ Control unlimited game servers across multiple machines from a single dashboard.
 - **Content Creators** needing reliable server infrastructure
 - **Anyone** tired of manual server administration
 
-## 🚀 Get Started
-
-Ready to transform your ARK server management experience?
-
-1. **[Download ASA Manager](https://github.com/asamanager/asamanager)** - Get the latest release
-2. **[Installation Guide](https://github.com/asamanager/asamanager#installation)** - Step-by-step setup
-3. **[Quick Start Tutorial](https://github.com/asamanager/asamanager#quick-start)** - Your first server in 5 minutes
 
 ## 💬 Community
 
 Join thousands of server administrators already using ASA Manager:
 
-- **[💡 Feature Requests](https://github.com/asamanager/community/discussions/categories/ideas)** - Shape the future of ASA Manager
+- **[💡 Feature Requests](https://github.com/asamanager/community/discussions/categories/suggestions)** - Shape the future of ASA Manager
 - **[🐛 Bug Reports](https://github.com/asamanager/community/issues)** - Help us improve
 - **[❓ Support](https://github.com/asamanager/community/discussions/categories/support)** - Get help from the community
 - **[📢 Announcements](https://github.com/asamanager/community/discussions/categories/announcements)** - Stay updated
@@ -104,7 +97,7 @@ We're constantly evolving ASA Manager based on community feedback:
 - 🎯 **Plugin System** - Extend functionality with custom modules
 - 🎯 **Cloud Integration** - Deploy to AWS/Azure with one click
 
-*[Vote on upcoming features](https://github.com/asamanager/community/discussions/categories/ideas)*
+*[Vote on upcoming features](https://github.com/asamanager/community/discussions/categories/suggestions)*
 
 ## 📊 Project Stats
 
@@ -113,17 +106,6 @@ We're constantly evolving ASA Manager based on community feedback:
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/asamanager/asamanager)
 ![GitHub last commit](https://img.shields.io/github/last-commit/asamanager/asamanager)
 
-## 🤝 Contributing
-
-ASA Manager is built by the community, for the community. Whether you're a developer, designer, or just passionate about ARK servers, there's a way to contribute:
-
-- **🔧 Code Contributions** - Help build new features
-- **📝 Documentation** - Improve guides and tutorials
-- **🐛 Testing** - Try new features and report issues
-- **💡 Ideas** - Suggest improvements and new features
-- **🎨 Design** - Create better user experiences
-
-[Learn how to contribute →](https://github.com/asamanager/asamanager/blob/main/CONTRIBUTING.md)
 
 ---
 
