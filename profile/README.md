@@ -73,32 +73,10 @@ Join thousands of server administrators already using ASA Manager:
 >
 > *- Community Server Administrator*
 
-### Before ASA Manager:
-- ❌ Manual server updates at 3 AM
-- ❌ Juggling multiple SSH sessions
-- ❌ Mod conflicts breaking servers
-- ❌ No visibility into server performance
-- ❌ Players frustrated by downtime
-
-### After ASA Manager:
-- ✅ Automated maintenance during low-activity periods
-- ✅ Single dashboard for all servers
-- ✅ One-click mod management
-- ✅ Proactive performance monitoring
-- ✅ Happy players, happy admins
-
 ## 🔮 Roadmap
 
 We're constantly evolving ASA Manager based on community feedback:
-
-- 🎯 **Web-based File Manager** - Edit configs without SSH
-- 🎯 **Mobile App** - Manage servers on the go
-- 🎯 **Advanced Analytics** - Deeper insights into player behavior
-- 🎯 **Plugin System** - Extend functionality with custom modules
-- 🎯 **Cloud Integration** - Deploy to AWS/Azure with one click
-
-*[Vote on upcoming features](https://github.com/asamanager/community/discussions/categories/suggestions)*
-
+ 
 ## 📊 Project Stats
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/asamanager/asamanager?style=social)
