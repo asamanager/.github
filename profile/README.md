@@ -35,7 +35,7 @@ We're constantly evolving ASA Manager based on community feedback:
  
 ## 📊 Project Stats
 
-![GitHub Repo stars](https://img.shields.io/github/stars/asamanager/asamanager?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/vasilejianu/asamanager?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/asamanager/asamanager)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/asamanager/asamanager)
 ![GitHub last commit](https://img.shields.io/github/last-commit/asamanager/asamanager)
