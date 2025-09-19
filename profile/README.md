@@ -6,7 +6,6 @@
 
 **The ultimate ARK: Survival Ascended server management platform**
 
-[🚀 Get Started](#-get-started) • [✨ Features](#-features) • [🎯 Demo](#-demo) • [💬 Community](#-community)
 
 </div>
 
