@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://i.imgur.com/gnZ8VR6.png))
+<img width="932" height="323" alt="Image" src="https://github.com/user-attachments/assets/c14b3901-1e3f-4dff-ba19-9a48c7b5d1c3" />
 
 <div align="center">
 
