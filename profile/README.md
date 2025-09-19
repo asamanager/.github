@@ -14,49 +14,6 @@
 
 ASA Manager transforms complex ARK: Survival Ascended server administration into a streamlined, web-based experience. Whether you're managing a single server for friends or orchestrating multiple clusters for large communities, ASA Manager provides the tools you need to focus on what matters most - your players.
 
-## ✨ Core Features
-
-### 🖥️ **Multi-Server Management**
-Control unlimited game servers across multiple machines from a single dashboard. Monitor performance, manage configurations, and deploy updates with just a few clicks.
-
-### ⚡ **Automated Operations**
-- **Smart Updates**: Automatic game and mod updates with customizable schedules
-- **Intelligent Restarts**: Schedule restarts during low-activity periods
-- **Backup Automation**: Protect your worlds with automated backup systems
-- **Health Monitoring**: Real-time alerts when servers need attention
-
-### 👥 **Player-Focused Tools**
-- **Activity Analytics**: Track player engagement and server popularity
-- **Permission Management**: Granular access control for your admin team
-- **Community Integration**: Discord notifications and status updates
-- **Player Tracking**: Monitor join/leave patterns and playtime statistics
-
-### 🔧 **Advanced Server Control**
-- **RCON Integration**: Execute commands and manage servers remotely
-- **Mod Management**: One-click mod installations and updates via CurseForge
-- **Cluster Coordination**: Seamlessly link multiple servers together
-- **Configuration Templates**: Deploy consistent server setups instantly
-
-### 📊 **Insights & Analytics**
-- **Performance Metrics**: CPU, RAM, and disk usage monitoring
-- **Player Statistics**: Detailed analytics on community engagement
-- **Server Health**: Proactive monitoring with alert systems
-- **Growth Tracking**: Understand your community's development over time
-
-### 🛡️ **Security & Reliability**
-- **Secure Access**: Multi-factor authentication and role-based permissions
-- **Audit Logging**: Complete history of all administrative actions
-- **Location Controls**: Geographic access restrictions for enhanced security
-- **Redundant Backups**: Multiple backup strategies to protect your data
-
-## 🎯 Perfect For
-
-- **Gaming Communities** managing multiple ARK servers
-- **Server Hosts** providing managed ARK hosting services
-- **Clan Leaders** running private servers for their groups
-- **Content Creators** needing reliable server infrastructure
-- **Anyone** tired of manual server administration
-
 
 ## 💬 Community
 
